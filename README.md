@@ -1,4 +1,4 @@
-# HIB excel
+# CSV to excel
  
 Program ma za zadanie wyciąg odpowiedzi z ankiet z platformy LIME i układać je w przystępnej formie do analizy w excelu. Program robi to za pomocą biblioteki xlsxwriter oraz napisanych funkcji. Funkcje są podzielone ze względu na rodzaje pytań: 
 - Pytań jednokrotnego wyboru - najprostrza funkcja, która obsługiwała też pytania, w której wypełniający wpisywał własne odpowiedzi
